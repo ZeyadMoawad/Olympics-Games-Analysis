@@ -76,5 +76,5 @@ As shown from Data Visualization, It can be deduced that:
 # Shareable Link
 You can interact with the report here:
 
-[View Report]([https://www.linkedin.com/feed/](https://app.powerbi.com/groups/me/reports/beaaaa5d-cbfe-48f2-a4eb-b62ee0eda4b0/ReportSection?experience=power-bi)https://app.powerbi.com/groups/me/reports/beaaaa5d-cbfe-48f2-a4eb-b62ee0eda4b0/ReportSection?experience=power-bi)
+[View Report](https://app.powerbi.com/groups/me/reports/beaaaa5d-cbfe-48f2-a4eb-b62ee0eda4b0/ReportSection?experience=power-bi)
 
