@@ -76,5 +76,5 @@ As shown from Data Visualization, It can be deduced that:
 # Shareable Link
 You can interact with the report here:
 
-[View Report](https://app.powerbi.com/groups/me/reports/beaaaa5d-cbfe-48f2-a4eb-b62ee0eda4b0/ReportSection?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=shareVisual&visual=aad6ce59e8042f372276&height=299.52&width=766.08&bookmarkGuid=6c1a6a10-2c8c-434e-8ab4-6b221053b9a4)
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiYTRiNDcxNTItZDc1MC00ZjM1LTk1ZjktYjhkMWFhNzlkMDczIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
